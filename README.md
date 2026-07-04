@@ -71,13 +71,13 @@ StoryVerse/
 Clone the repository
 
 ```bash
-git clone https://github.com/your-username/StoryVerse.git
+git clone https://github.com/MihirYadav619/StoryVerse1.git
 ```
 
 Move into the project directory
 
 ```bash
-cd StoryVerse
+cd StoryVerse1
 ```
 
 Install the required packages
