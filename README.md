@@ -62,7 +62,7 @@ StoryVerse/
 3. ChromaDB retrieves semantically similar books.
 4. Genre, emotion and rating filters are applied.
 5. Mistral generates explanations for the recommended books.
-6. Results are displayed in the Gradio interface.
+6. Results are displayed in the Gradio interface
 
 ---
 
